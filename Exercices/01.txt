@@ -1,0 +1,450 @@
+      1 18 e arrondissement de Paris
+      1 18e arrondissement de Paris
+      1 A86
+      1 Abruzzes
+      1 Abu Dhabi
+      1 Addis Abeba
+      1 Afghanistan
+      1 Afrique
+      1 Afrique du Sud
+      1 Afrique subsaharienne
+      1 Agde
+      1 Alberta
+      1 Algérie
+      1 Alpes-de-Haute-Provence
+      1 Alpes françaises
+      1 Alpes-Maritimes
+      1 Ankara
+      1 Aquitaine
+      1 Arabie saoudite
+      1 Ardèche 
+      1 Ardennes
+      1 Arequipa
+      1 Argentière
+      1 Argentine
+      1 Arlington
+      1 Aube
+      1 aulnes
+      1 Auvergne-Rhône-Alpes
+      1 Avoriaz
+      1 Avrainville
+      1 Bahreïn
+      1 Banjul
+      1 Belfort
+      1 Bethel
+      1 Bolivie
+      1 Bornéo
+      1 Bosphore
+      1 Bourgoin-Jallieu
+      1 Bron
+      1 Buenos Aires
+      1 Bulgarie
+      1 Burkina Faso
+      1 Californie
+      1 Cameroun
+      1 Cantal
+      1 Capitol
+      1 Castellane
+      1 Ceinture de feu
+      1 Champagne-Ardenne
+      1 Chartreuse iséroise
+      1 Chili
+      1 China
+      1 Chistochina
+      1 Choisel
+      1 Chypre
+      1 Cisjordanie
+      1 cité des 4000
+      1 cité du Franc Moisin de Saint-Denis
+      1 Clermont-Ferrand
+      1 Clos Saint-Quentin
+      1 col du Petit Argentier
+      1 Collonges-au-Mont-d'Or
+      1 commissariat de la Goutte-d'Or
+      1 constellation du Cygne
+      1 Corse
+      1 Corse-du-Sud
+      1 Côte d'Ivoire
+      1 Côte d'Or
+      1 Crète
+      1 d'
+      1 Dabiq
+      1 Dakota du Nord
+      1 Danemark
+      1 Datcha-Suu
+      1 Dénés
+      1 désert syrien
+      1 Devès
+      1 Doha
+      1 Donetsk
+      1 Douvres
+      1 Dubaï
+      1 Essonne
+      1 est du désert syrien
+      1 Etats-Unis
+      1 Éthiopie
+      1 Eure
+      1 Évian
+      1 Faial
+      1 Fairbanks
+      1 Fangeas
+      1 Finlande
+      1 Flamanville
+      1 Follebin
+      1 frontière allemande
+      1 frontière turque
+      1 frontière turquo-syrienne
+      1 Gakona Lodge
+      1 Gare de l'Est
+      1 gare du Nord de Paris
+      1 Genève
+      1 Gironde
+      1 Golfe d'Alaska
+      1 Golfe persique
+      1 Goutte-d'Or
+      1 Graciosa
+      1 Grand Est
+      1 Grands Lacs africains
+      1 Granier
+      1 Grèce
+      1 Grenoble
+      1 Grouard-McLennan
+      1 Guadeloupe
+      1 Guillain-Barré
+      1 Guyane
+      1 Hastings
+      1 Hat Yai
+      1 Haute-Corse
+      1 Haute-Saône
+      1 Hauts-de-France
+      1 Hongrie
+      1 Houston
+      1 Idleb
+      1 île de Farsi
+      1 Île-de-France
+      1 île de Raguénez
+      1 île d'Orléans
+      1 Ille-et-Vilaine
+      1 Illinois
+      1 Jacques-Bonsergent
+      1 Japon
+      1 Kaliningrad
+      1 Keewatin-Le Pas
+      1 Kilju
+      1 Kodiak
+      1 Koweït
+      1 La Courneuve
+      1 Lake Roadhouse
+      1 La Loche
+      1 l'Angleterre
+      1 Las Vegas
+      1 Léman
+      1 Lenlevay
+      1 Le Pertuis
+      1 Le Puy
+      1 Lettonie
+      1 l' Europe
+      1 Libéria
+      1 Lille
+      1 Lima
+      1 Lincoln Memorial
+      1 l' Inde
+      1 l'Irak
+      1 L’Iran
+      1 Lisbonne
+      1 Loire
+      1 Loire-Atlantique
+      1 Loir-et-Cher
+      1 Lougansk
+      1 Louise
+      1 lune
+      1 Luxembourg
+      1 M20
+      1 Machhad
+      1 Maghreb
+      1 Maine-et-Loire
+      1 Malaisie
+      1 Manas
+      1 Manche
+      1 Manille
+      1 Manzanillo
+      1 Margeride
+      1 Marne
+      1 Marseille
+      1 Martinique
+      1 Mauriac
+      1 Maurienne
+      1 Mayenne
+      1 Mendeltna Creek Lodge
+      1 Meuse
+      1 Meygal
+      1 Michigan
+      1 Modane
+      1 Mogadiscio
+      1 Montchavin-La-Plagne
+      1 Monte Carlo
+      1 Monte Carlo Entrevaux
+      1 Mossoul
+      1 Navès
+      1 Nebraska
+      1 Népal
+      1 Neptune
+      1 Nevada
+      1 Nièvre
+      1 Normandie
+      1 Nouvelle-Aquitaine
+      1 Occitanie
+      1 Ouagadougou
+      1 Pacifique
+      1 palais de l' Élysée
+      1 Palestine
+      1 Palmyre
+      1 Pampa de la Joya
+      1 Panguna
+      1 Pays de la Loire
+      1 Pékin
+      1 Pennsylvania Aavenue
+      1 Pérou
+      1 Pico
+      1 Place de la Liberté
+      1 Place d’Italie
+      1 place Jean-Jaurès
+      1 Porte des Lilas
+      1 Port-Joinville
+      1 Portugal
+      1 Provence-Alpes-Côte d'Azur
+      1 Puy-de-Dôme
+      1 Pyrénées-Atlantiques
+      1 Qabasin
+      1 Rajasthan
+      1 Raqqa
+      1 RDC
+      1 Red Eagle Lodge
+      1 République
+      1 République arabe sahraouie démocratique
+      1 Rhône-Alpes
+      1 RN 79
+      1 Rohero
+      1 Rojava
+      1 Rome
+      1 Roraima
+      1 Rouaine
+      1 rue Danielle Casanova
+      1 rue de Lorraine
+      1 rue Saint-Just
+      1 Sahara occidental
+      1 Saint-Christol
+      1 Sainte-Foy-Tarentaise
+      1 Saint-Jeannet
+      1 Saint-Jean-Pied-de-Port
+      1 Saint-Martin
+      1 Saint-Raphaël
+      1 Sallanches
+      1 Salta
+      1 Sandhurst
+      1 San Diego
+      1 Santa Maria
+      1 Sao Jorge
+      1 Seine-Maritime
+      1 Seine-Saint-Denis
+      1 Sicile
+      1 Sinjar
+      1 Solignac-sur-Loire
+      1 Songkhla
+      1 Sourdough Lodge
+      1 Squaw Valley
+      1 Sri Lanka
+      1 Sud-Est de la France
+      1 Suède
+      1 Sultanahmet
+      1 Sumatra
+      1 Sydney
+      1 Taipei
+      1 Tanzanie
+      1 Tarentaise
+      1 Tarn
+      1 Tauves
+      1 Tel Aviv
+      1 Terceira
+      1 Texas
+      1 Tobrouk
+      1 Toronto
+      1 Tours
+      1 Trappes
+      1 Two Rivers
+      1 Ubraye
+      1 Udzungwa
+      1 Uyuni
+      1 Val-de-Chalvagne
+      1 Val-d’Isère
+      1 Valfréjus
+      1 Vallée
+      1 Var
+      1 Varsovie
+      1 Vaucluse
+      1 Vergezac
+      1 Vérone
+      1 viaduc de Charolles
+      1 Victoria
+      1 Villeurbanne
+      1 Vincennes
+      1 Washington
+      1 Washington , DC
+      1 Willow
+      1 Wonsan
+      1 X e
+      1 XIX e arrondissements
+      1 Yaoundé
+      1 Yonne
+      1 Yvelines
+      1 Żagań
+      1 Zone euro
+      2 Abondance
+      2 Ain
+      2 Ardèche
+      2 Asie
+      2 Aude
+      2 Autriche
+      2 Bagdad
+      2 Bichkek
+      2 Bordeaux
+      2 Canterbury
+      2 Chambésy
+      2 Corée du Sud
+      2 Côtes-d'Armor
+      2 Crimée
+      2 Dalzell Gorge
+      2 Deir ez-Zor
+      2 Doubs
+      2 Edmonton
+      2 Espagne
+      2 Estonie
+      2 étoile de Tabby
+      2 Gambie
+      2 Guinée équatoriale
+      2 Haute-Loire
+      2 Haute-Marne
+      2 Hauts-de-Seine
+      2 Hawaï
+      2 Hong Kong
+      2 Île d'Yeu
+      2 Indonésie
+      2 Iskandariya
+      2 Jakarta
+      2 Jura
+      2 KIC 8462852
+      2 Kirghizistan
+      2 Libye
+      2 Lozère
+      2 Madagascar
+      2 Manaus
+      2 Mézenc
+      2 Mont de Grange
+      2 Morbihan
+      2 National Mall
+      2 Névez
+      2 New York
+      2 Orlando
+      2 Papouasie-Nouvelle-Guinée
+      2 Pays-Bas
+      2 Pennsylvania Avenue
+      2 Pyrénées-Orientales
+      2 Rhône
+      2 Saskatchewan
+      2 Sénégal
+      2 Sierra Leone
+      2 Strasbourg
+      2 Suisse
+      2 système solaire
+      2 Tignieu-Jameyzieu
+      2 Toulon
+      2 Toulouse
+      2 Univers
+      2 Valence
+      2 vallée de l'Arve
+      2 Vivarais
+      2 Yale
+      2 Yémen
+      2 zone euro
+      3 Açores
+      3 Allemagne
+      3 Amérique latine
+      3 Atlantique
+      3 Bayeux
+      3 Berlin
+      3 Drôme
+      3 Élysée
+      3 Finistère
+      3 Floride
+      3 Glennallen
+      3 Guinée
+      3 Hilla
+      3 Irak
+      3 Israël
+      3 Jérusalem
+      3 Kent
+      3 Knik
+      3 Lamballe
+      3 Lituanie
+      3 Moscou
+      3 Pyongyang
+      3 RASD
+      3 Saint-Denis
+      3 Sarthe
+      3 Soleil
+      3 Téhéran
+      3 Thaïlande
+      4 Afrique de l'Ouest
+      4 al-Bab
+      4 Angleterre
+      4 Australie
+      4 Capitole
+      4 Haute-Savoie
+      4 Hérault
+      4 Londres
+      4 Lyon
+      4 Maroc
+      4 Mars
+      4 Melbourne
+      4 Mexique
+      4 Montrouge
+      4 Pakistan
+      4 place de la République
+      4 Pologne
+      4 Québec
+      4 Roumanie
+      4 Saône-et-Loire
+      4 Seine
+      4 Somalie
+      4 Taïwan
+      4 Vendée
+      5 Amérique
+      5 Belgique
+      5 Bretagne
+      5 Europe
+      5 Inde
+      5 Isère
+      5 Malte
+      5 Nice
+      6 Burundi
+      6 Lune
+      7 Corée du Nord
+      7 Istanbul
+      7 Savoie
+      8 Brésil
+      8 Canada
+      9 Alaska
+      9 Donbass
+      9 Minsk
+      9 Royaume-Uni
+      9 Syrie
+     11 Iran
+     11 Terre
+     12 Chine
+     13 Turquie
+     14 Ukraine
+     18 Italie
+     18 Russie
+     26 Paris
+     34 États-Unis
+     85 France

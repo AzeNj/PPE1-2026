@@ -1,0 +1,9 @@
+Annotations en 2016 :
+Nombre de fichiers 571
+Nombre d'annotations dans les fichiers 9443
+Annotations en 2017 :
+Nombre de fichiers 393
+Nombre d'annotations dans les fichiers 7183
+Annotations en 2018 :
+Nombre de fichiers 227
+Nombre d'annotations dans les fichiers 7565
