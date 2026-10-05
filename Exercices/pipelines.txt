@@ -9,9 +9,9 @@ echo -e "Locations en 2017 :\n$(grep "Location" ../../../Exercice1/ann/2017/*/*.
 echo -e "Locations en 2018 :\n$(grep "Location" ../../../Exercice1/ann/2018/*/*.ann | wc -l)" >> locations.txt
 
 2)a)
-grep "Location" ../../../Exercice1/ann/2016/*/*.ann | cut -f3 | sort | uniq -c | sort -n > classement_2016.txt
-grep "Location" ../../../Exercice1/ann/2017/*/*.ann | cut -f3 | sort | uniq -c | sort -n > classement_2017.txt 
-grep "Location" ../../../Exercice1/ann/2018/*/*.ann | cut -f3 | sort | uniq -c | sort -n > classement_2018.txt 
+grep "Location" ../../../Exercice1/ann/2016/*/*.ann | cut -f3 | sort | uniq -c | sort -n | tail -15 > classement_2016.txt
+grep "Location" ../../../Exercice1/ann/2017/*/*.ann | cut -f3 | sort | uniq -c | sort -n | tail -15 > classement_2017.txt 
+grep "Location" ../../../Exercice1/ann/2018/*/*.ann | cut -f3 | sort | uniq -c | sort -n | tail -15 > classement_2018.txt 
 
 2)b)
 grep "Location" ../../../Exercice1/ann/*/01/*.ann | cut -f3 | sort | uniq -c | sort -n > 01.txt 
