@@ -18,3 +18,6 @@ Exercice git (création et récupération de dépôts, synchronisation de modifi
 ### Problèmes
 commande wc non reconnue dans mon terminal > Paquet coreutils installé pour régler le problème.
 
+# Séance 3
+
+## exercices git
