@@ -22,3 +22,4 @@ commande wc non reconnue dans mon terminal > Paquet coreutils installé pour ré
 # Séance 3
 
 ## exercices git
+Cette ligne doit rester après correction
