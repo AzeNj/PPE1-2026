@@ -1,3 +1,4 @@
+quelques lignes bidons
 # Journal de bord du projet encadré
 
 ## 30/09/26 - git et manipulation de fichiers, pipelines
