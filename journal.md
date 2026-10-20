@@ -22,6 +22,7 @@ commande wc non reconnue dans mon terminal > Paquet coreutils installé pour ré
 
 ## exercices git
 Cette ligne doit rester après correction
+
 correction d'erreur
 
 # PPE1
@@ -36,3 +37,5 @@ correction d'erreur
 #### Après le cours
 - Exercices de manipulation git (correction d'erreurs, gestion de conflits)
 - Exercices d'introduction aux scripts bash (Arguments, boucles...)
+
+Ligne de côté
