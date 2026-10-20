@@ -39,3 +39,11 @@ correction d'erreur
 - Exercices d'introduction aux scripts bash (Arguments, boucles...)
 
 Ligne de côté
+
+#### Explication du code de la derniere diapo
+
+Le script de la dernière diapo est un script bash.
+Ce dernier commence par une vérification du nombre d'arguments : Un seul est attendu.
+Cet argument est stocké dans la variable "FICHIER_URLS". Ce dernier correspond a un fichier, le script consiste en sa lecture ligne par ligne, à chaque ligne si cette dernière contient le début d'une url (comme vu sur le premier if statement) un message est alors print sur le stdout et la variable OK est incrémentée.
+Dans le cas contraire, un message le précisant est affiché sur le stdout et la variable NOK est incrémentée.
+À la fin de ce fichier les variables OK et NOK sont affichées sur le stdout pour apprécier le nombre de lignes contenant un url et le nb de lignes n'en contenant pas.
